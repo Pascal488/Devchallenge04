@@ -51,6 +51,11 @@
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
+   
+   
+- [x] User story:You  can see a page following the given design
+
+
 
 
 ## Acknowledgements
@@ -63,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [pascalmax.com](https://pascalmax.netlify.app/)
+- GitHub [Pascal488](https://github.com/Pascal488)
+- Instagram [Paschal_maximillian](https://www.instagram.com/paschal_maximillian/)
